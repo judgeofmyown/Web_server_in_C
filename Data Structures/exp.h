@@ -1,0 +1,1 @@
+struct LinkedList linked_list_int_constructor();
